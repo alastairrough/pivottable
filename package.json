@@ -1,19 +1,19 @@
 {
-  "name": "pivottable",
-  "version": "1.0.0",
-  "description": "examples of pivot tables and plots",
-  "main": "show_code.js",
-  "scripts": {
-    "test": "none"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/alastairrough/pivottable.git"
-  },
-  "author": "Alastair Rough",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/alastairrough/pivottable/issues"
-  },
-  "homepage": "https://github.com/alastairrough/pivottable#readme"
+    "name": "pivottable",
+    "version": "1.0.0",
+    "description": "examples of pivot tables and plots",
+    "main": "show_code.js",
+    "scripts": {
+        "test": "none"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/alastairrough/pivottable.git"
+    },
+    "author": "Alastair Rough",
+    "license": "MIT License",
+    "bugs": {
+        "url": "https://github.com/alastairrough/pivottable/issues"
+    },
+    "homepage": "https://github.com/alastairrough/pivottable#readme"
 }
