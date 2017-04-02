@@ -1,0 +1,2532 @@
+[
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-23",
+   "sailingTime": 1550,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-23",
+   "sailingTime": 1650,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-23",
+   "sailingTime": 1750,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-23",
+   "sailingTime": 1905,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-23",
+   "sailingTime": 1950,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 11,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-23",
+   "sailingTime": 2145,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 67,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-24",
+   "sailingTime": 600,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 74,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-24",
+   "sailingTime": 720,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 37,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-24",
+   "sailingTime": 805,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 82,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-24",
+   "sailingTime": 925,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 86,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-24",
+   "sailingTime": 1015,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 92,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-24",
+   "sailingTime": 1130,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-24",
+   "sailingTime": 1225,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-24",
+   "sailingTime": 1335,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-24",
+   "sailingTime": 1435,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-24",
+   "sailingTime": 1550,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-24",
+   "sailingTime": 1650,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-24",
+   "sailingTime": 1750,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-24",
+   "sailingTime": 1905,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-24",
+   "sailingTime": 1950,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-24",
+   "sailingTime": 2145,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 32,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-25",
+   "sailingTime": 600,
+   "dayofWeek": 6,
+   "DoW": "Sat",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 65,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-25",
+   "sailingTime": 720,
+   "dayofWeek": 6,
+   "DoW": "Sat",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 60,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-25",
+   "sailingTime": 805,
+   "dayofWeek": 6,
+   "DoW": "Sat",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 96,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-25",
+   "sailingTime": 925,
+   "dayofWeek": 6,
+   "DoW": "Sat",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-25",
+   "sailingTime": 1015,
+   "dayofWeek": 6,
+   "DoW": "Sat",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 80,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-25",
+   "sailingTime": 1130,
+   "dayofWeek": 6,
+   "DoW": "Sat",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 95,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-25",
+   "sailingTime": 1225,
+   "dayofWeek": 6,
+   "DoW": "Sat",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 67,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-25",
+   "sailingTime": 1335,
+   "dayofWeek": 6,
+   "DoW": "Sat",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-25",
+   "sailingTime": 1435,
+   "dayofWeek": 6,
+   "DoW": "Sat",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 82,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-25",
+   "sailingTime": 1550,
+   "dayofWeek": 6,
+   "DoW": "Sat",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-25",
+   "sailingTime": 1650,
+   "dayofWeek": 6,
+   "DoW": "Sat",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 70,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-25",
+   "sailingTime": 1750,
+   "dayofWeek": 6,
+   "DoW": "Sat",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 84,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-25",
+   "sailingTime": 1905,
+   "dayofWeek": 6,
+   "DoW": "Sat",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 24,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-25",
+   "sailingTime": 1950,
+   "dayofWeek": 6,
+   "DoW": "Sat",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 36,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-25",
+   "sailingTime": 2145,
+   "dayofWeek": 6,
+   "DoW": "Sat",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 25,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-26",
+   "sailingTime": 720,
+   "dayofWeek": 0,
+   "DoW": "Sun",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 28,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-26",
+   "sailingTime": 805,
+   "dayofWeek": 0,
+   "DoW": "Sun",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 65,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-26",
+   "sailingTime": 925,
+   "dayofWeek": 0,
+   "DoW": "Sun",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 63,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-26",
+   "sailingTime": 1015,
+   "dayofWeek": 0,
+   "DoW": "Sun",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 53,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-26",
+   "sailingTime": 1130,
+   "dayofWeek": 0,
+   "DoW": "Sun",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-26",
+   "sailingTime": 1225,
+   "dayofWeek": 0,
+   "DoW": "Sun",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 68,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-26",
+   "sailingTime": 1335,
+   "dayofWeek": 0,
+   "DoW": "Sun",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-26",
+   "sailingTime": 1435,
+   "dayofWeek": 0,
+   "DoW": "Sun",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 68,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-26",
+   "sailingTime": 1550,
+   "dayofWeek": 0,
+   "DoW": "Sun",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-26",
+   "sailingTime": 1650,
+   "dayofWeek": 0,
+   "DoW": "Sun",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 50,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-26",
+   "sailingTime": 1750,
+   "dayofWeek": 0,
+   "DoW": "Sun",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 99,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-26",
+   "sailingTime": 1905,
+   "dayofWeek": 0,
+   "DoW": "Sun",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 27,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-26",
+   "sailingTime": 1950,
+   "dayofWeek": 0,
+   "DoW": "Sun",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 25,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-26",
+   "sailingTime": 2145,
+   "dayofWeek": 0,
+   "DoW": "Sun",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-27",
+   "sailingTime": 600,
+   "dayofWeek": 1,
+   "DoW": "Mon",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-27",
+   "sailingTime": 720,
+   "dayofWeek": 1,
+   "DoW": "Mon",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 55,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-27",
+   "sailingTime": 805,
+   "dayofWeek": 1,
+   "DoW": "Mon",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 61,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-27",
+   "sailingTime": 925,
+   "dayofWeek": 1,
+   "DoW": "Mon",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 73,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-27",
+   "sailingTime": 1015,
+   "dayofWeek": 1,
+   "DoW": "Mon",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 54,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-27",
+   "sailingTime": 1130,
+   "dayofWeek": 1,
+   "DoW": "Mon",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 95,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-27",
+   "sailingTime": 1225,
+   "dayofWeek": 1,
+   "DoW": "Mon",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 71,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-27",
+   "sailingTime": 1335,
+   "dayofWeek": 1,
+   "DoW": "Mon",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-27",
+   "sailingTime": 1435,
+   "dayofWeek": 1,
+   "DoW": "Mon",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 73,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-27",
+   "sailingTime": 1550,
+   "dayofWeek": 1,
+   "DoW": "Mon",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 99,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-27",
+   "sailingTime": 1650,
+   "dayofWeek": 1,
+   "DoW": "Mon",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 58,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-27",
+   "sailingTime": 1750,
+   "dayofWeek": 1,
+   "DoW": "Mon",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 77,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-27",
+   "sailingTime": 1905,
+   "dayofWeek": 1,
+   "DoW": "Mon",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 20,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-27",
+   "sailingTime": 1950,
+   "dayofWeek": 1,
+   "DoW": "Mon",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 30,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-27",
+   "sailingTime": 2145,
+   "dayofWeek": 1,
+   "DoW": "Mon",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 81,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-28",
+   "sailingTime": 720,
+   "dayofWeek": 2,
+   "DoW": "Tue",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 50,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-28",
+   "sailingTime": 805,
+   "dayofWeek": 2,
+   "DoW": "Tue",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 58,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-28",
+   "sailingTime": 925,
+   "dayofWeek": 2,
+   "DoW": "Tue",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 65,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-28",
+   "sailingTime": 1015,
+   "dayofWeek": 2,
+   "DoW": "Tue",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 66,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-28",
+   "sailingTime": 1130,
+   "dayofWeek": 2,
+   "DoW": "Tue",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 78,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-28",
+   "sailingTime": 1225,
+   "dayofWeek": 2,
+   "DoW": "Tue",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 73,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-28",
+   "sailingTime": 1335,
+   "dayofWeek": 2,
+   "DoW": "Tue",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 97,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-28",
+   "sailingTime": 1435,
+   "dayofWeek": 2,
+   "DoW": "Tue",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-28",
+   "sailingTime": 1550,
+   "dayofWeek": 2,
+   "DoW": "Tue",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-28",
+   "sailingTime": 1650,
+   "dayofWeek": 2,
+   "DoW": "Tue",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 76,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-28",
+   "sailingTime": 1750,
+   "dayofWeek": 2,
+   "DoW": "Tue",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 93,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-28",
+   "sailingTime": 1905,
+   "dayofWeek": 2,
+   "DoW": "Tue",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 40,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-28",
+   "sailingTime": 1950,
+   "dayofWeek": 2,
+   "DoW": "Tue",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 37,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-28",
+   "sailingTime": 2145,
+   "dayofWeek": 2,
+   "DoW": "Tue",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 49,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-29",
+   "sailingTime": 600,
+   "dayofWeek": 3,
+   "DoW": "Wed",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 96,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-29",
+   "sailingTime": 720,
+   "dayofWeek": 3,
+   "DoW": "Wed",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 51,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-29",
+   "sailingTime": 805,
+   "dayofWeek": 3,
+   "DoW": "Wed",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 83,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-29",
+   "sailingTime": 925,
+   "dayofWeek": 3,
+   "DoW": "Wed",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 46,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-29",
+   "sailingTime": 1015,
+   "dayofWeek": 3,
+   "DoW": "Wed",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 66,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-29",
+   "sailingTime": 1130,
+   "dayofWeek": 3,
+   "DoW": "Wed",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 87,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-29",
+   "sailingTime": 1225,
+   "dayofWeek": 3,
+   "DoW": "Wed",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 71,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-29",
+   "sailingTime": 1335,
+   "dayofWeek": 3,
+   "DoW": "Wed",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-29",
+   "sailingTime": 1435,
+   "dayofWeek": 3,
+   "DoW": "Wed",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-29",
+   "sailingTime": 1550,
+   "dayofWeek": 3,
+   "DoW": "Wed",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-29",
+   "sailingTime": 1650,
+   "dayofWeek": 3,
+   "DoW": "Wed",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 60,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-29",
+   "sailingTime": 1750,
+   "dayofWeek": 3,
+   "DoW": "Wed",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 82,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-29",
+   "sailingTime": 1905,
+   "dayofWeek": 3,
+   "DoW": "Wed",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 36,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-29",
+   "sailingTime": 1950,
+   "dayofWeek": 3,
+   "DoW": "Wed",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 40,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-29",
+   "sailingTime": 2145,
+   "dayofWeek": 3,
+   "DoW": "Wed",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 64,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-30",
+   "sailingTime": 600,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 98,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-30",
+   "sailingTime": 720,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 43,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-30",
+   "sailingTime": 805,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 63,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-30",
+   "sailingTime": 925,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 73,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-30",
+   "sailingTime": 1015,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 68,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-30",
+   "sailingTime": 1130,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 73,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-30",
+   "sailingTime": 1225,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 90,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-30",
+   "sailingTime": 1335,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-30",
+   "sailingTime": 1435,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 85,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-30",
+   "sailingTime": 1550,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-30",
+   "sailingTime": 1650,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 77,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-30",
+   "sailingTime": 1750,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-30",
+   "sailingTime": 1905,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 32,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-30",
+   "sailingTime": 1950,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 43,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-30",
+   "sailingTime": 2145,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 40,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 600,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 89,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 720,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 40,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 805,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 82,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 925,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 82,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 1015,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 75,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 1130,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 1225,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 1335,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 1435,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 1550,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 1650,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 1650,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 1750,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 1750,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 1905,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 1950,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "HSB",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 2145,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-23",
+   "sailingTime": 1445,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-23",
+   "sailingTime": 1545,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-23",
+   "sailingTime": 1650,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-23",
+   "sailingTime": 1755,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 62,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-23",
+   "sailingTime": 1850,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 0,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-23",
+   "sailingTime": 2010,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 0,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-23",
+   "sailingTime": 2045,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 65,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-24",
+   "sailingTime": 620,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 47,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-24",
+   "sailingTime": 700,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-24",
+   "sailingTime": 825,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-24",
+   "sailingTime": 910,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-24",
+   "sailingTime": 1025,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-24",
+   "sailingTime": 1120,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-24",
+   "sailingTime": 1235,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-24",
+   "sailingTime": 1330,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-24",
+   "sailingTime": 1445,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-24",
+   "sailingTime": 1545,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 80,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-24",
+   "sailingTime": 1650,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 58,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-24",
+   "sailingTime": 1755,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 31,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-24",
+   "sailingTime": 1850,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 28,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-24",
+   "sailingTime": 2010,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 4,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-24",
+   "sailingTime": 2045,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 41,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-25",
+   "sailingTime": 620,
+   "dayofWeek": 6,
+   "DoW": "Sat",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 44,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-25",
+   "sailingTime": 700,
+   "dayofWeek": 6,
+   "DoW": "Sat",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 90,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-25",
+   "sailingTime": 825,
+   "dayofWeek": 6,
+   "DoW": "Sat",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-25",
+   "sailingTime": 910,
+   "dayofWeek": 6,
+   "DoW": "Sat",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 82,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-25",
+   "sailingTime": 1025,
+   "dayofWeek": 6,
+   "DoW": "Sat",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 96,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-25",
+   "sailingTime": 1120,
+   "dayofWeek": 6,
+   "DoW": "Sat",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 64,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-25",
+   "sailingTime": 1235,
+   "dayofWeek": 6,
+   "DoW": "Sat",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-25",
+   "sailingTime": 1330,
+   "dayofWeek": 6,
+   "DoW": "Sat",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 57,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-25",
+   "sailingTime": 1445,
+   "dayofWeek": 6,
+   "DoW": "Sat",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 97,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-25",
+   "sailingTime": 1545,
+   "dayofWeek": 6,
+   "DoW": "Sat",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 54,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-25",
+   "sailingTime": 1650,
+   "dayofWeek": 6,
+   "DoW": "Sat",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 78,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-25",
+   "sailingTime": 1755,
+   "dayofWeek": 6,
+   "DoW": "Sat",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 42,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-25",
+   "sailingTime": 1850,
+   "dayofWeek": 6,
+   "DoW": "Sat",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 98,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-25",
+   "sailingTime": 2010,
+   "dayofWeek": 6,
+   "DoW": "Sat",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 3,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-25",
+   "sailingTime": 2045,
+   "dayofWeek": 6,
+   "DoW": "Sat",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 26,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-26",
+   "sailingTime": 620,
+   "dayofWeek": 0,
+   "DoW": "Sun",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 22,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-26",
+   "sailingTime": 700,
+   "dayofWeek": 0,
+   "DoW": "Sun",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 58,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-26",
+   "sailingTime": 825,
+   "dayofWeek": 0,
+   "DoW": "Sun",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 70,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-26",
+   "sailingTime": 910,
+   "dayofWeek": 0,
+   "DoW": "Sun",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 94,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-26",
+   "sailingTime": 1025,
+   "dayofWeek": 0,
+   "DoW": "Sun",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-26",
+   "sailingTime": 1120,
+   "dayofWeek": 0,
+   "DoW": "Sun",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-26",
+   "sailingTime": 1235,
+   "dayofWeek": 0,
+   "DoW": "Sun",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-26",
+   "sailingTime": 1330,
+   "dayofWeek": 0,
+   "DoW": "Sun",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-26",
+   "sailingTime": 1445,
+   "dayofWeek": 0,
+   "DoW": "Sun",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-26",
+   "sailingTime": 1545,
+   "dayofWeek": 0,
+   "DoW": "Sun",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-26",
+   "sailingTime": 1650,
+   "dayofWeek": 0,
+   "DoW": "Sun",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-26",
+   "sailingTime": 1755,
+   "dayofWeek": 0,
+   "DoW": "Sun",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-26",
+   "sailingTime": 1850,
+   "dayofWeek": 0,
+   "DoW": "Sun",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-26",
+   "sailingTime": 2010,
+   "dayofWeek": 0,
+   "DoW": "Sun",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-26",
+   "sailingTime": 2045,
+   "dayofWeek": 0,
+   "DoW": "Sun",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-27",
+   "sailingTime": 620,
+   "dayofWeek": 1,
+   "DoW": "Mon",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-27",
+   "sailingTime": 700,
+   "dayofWeek": 1,
+   "DoW": "Mon",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-27",
+   "sailingTime": 825,
+   "dayofWeek": 1,
+   "DoW": "Mon",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-27",
+   "sailingTime": 910,
+   "dayofWeek": 1,
+   "DoW": "Mon",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-27",
+   "sailingTime": 1025,
+   "dayofWeek": 1,
+   "DoW": "Mon",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-27",
+   "sailingTime": 1120,
+   "dayofWeek": 1,
+   "DoW": "Mon",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-27",
+   "sailingTime": 1235,
+   "dayofWeek": 1,
+   "DoW": "Mon",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-27",
+   "sailingTime": 1330,
+   "dayofWeek": 1,
+   "DoW": "Mon",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 80,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-27",
+   "sailingTime": 1445,
+   "dayofWeek": 1,
+   "DoW": "Mon",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 91,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-27",
+   "sailingTime": 1545,
+   "dayofWeek": 1,
+   "DoW": "Mon",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 36,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-27",
+   "sailingTime": 1650,
+   "dayofWeek": 1,
+   "DoW": "Mon",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 57,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-27",
+   "sailingTime": 1755,
+   "dayofWeek": 1,
+   "DoW": "Mon",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-27",
+   "sailingTime": 1850,
+   "dayofWeek": 1,
+   "DoW": "Mon",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 40,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-27",
+   "sailingTime": 2010,
+   "dayofWeek": 1,
+   "DoW": "Mon",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 7,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-27",
+   "sailingTime": 2045,
+   "dayofWeek": 1,
+   "DoW": "Mon",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-28",
+   "sailingTime": 620,
+   "dayofWeek": 2,
+   "DoW": "Tue",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 82,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-28",
+   "sailingTime": 700,
+   "dayofWeek": 2,
+   "DoW": "Tue",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-28",
+   "sailingTime": 825,
+   "dayofWeek": 2,
+   "DoW": "Tue",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-28",
+   "sailingTime": 910,
+   "dayofWeek": 2,
+   "DoW": "Tue",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 89,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-28",
+   "sailingTime": 1025,
+   "dayofWeek": 2,
+   "DoW": "Tue",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 91,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-28",
+   "sailingTime": 1120,
+   "dayofWeek": 2,
+   "DoW": "Tue",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 92,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-28",
+   "sailingTime": 1235,
+   "dayofWeek": 2,
+   "DoW": "Tue",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-28",
+   "sailingTime": 1330,
+   "dayofWeek": 2,
+   "DoW": "Tue",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 68,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-28",
+   "sailingTime": 1445,
+   "dayofWeek": 2,
+   "DoW": "Tue",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 84,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-28",
+   "sailingTime": 1545,
+   "dayofWeek": 2,
+   "DoW": "Tue",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 40,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-28",
+   "sailingTime": 1650,
+   "dayofWeek": 2,
+   "DoW": "Tue",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 54,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-28",
+   "sailingTime": 1755,
+   "dayofWeek": 2,
+   "DoW": "Tue",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 34,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-28",
+   "sailingTime": 1850,
+   "dayofWeek": 2,
+   "DoW": "Tue",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 34,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-28",
+   "sailingTime": 2010,
+   "dayofWeek": 2,
+   "DoW": "Tue",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 11,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-28",
+   "sailingTime": 2045,
+   "dayofWeek": 2,
+   "DoW": "Tue",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 79,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-29",
+   "sailingTime": 620,
+   "dayofWeek": 3,
+   "DoW": "Wed",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 58,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-29",
+   "sailingTime": 700,
+   "dayofWeek": 3,
+   "DoW": "Wed",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-29",
+   "sailingTime": 825,
+   "dayofWeek": 3,
+   "DoW": "Wed",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 94,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-29",
+   "sailingTime": 910,
+   "dayofWeek": 3,
+   "DoW": "Wed",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 83,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-29",
+   "sailingTime": 1025,
+   "dayofWeek": 3,
+   "DoW": "Wed",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-29",
+   "sailingTime": 1120,
+   "dayofWeek": 3,
+   "DoW": "Wed",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 82,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-29",
+   "sailingTime": 1235,
+   "dayofWeek": 3,
+   "DoW": "Wed",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-29",
+   "sailingTime": 1330,
+   "dayofWeek": 3,
+   "DoW": "Wed",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 68,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-29",
+   "sailingTime": 1445,
+   "dayofWeek": 3,
+   "DoW": "Wed",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 97,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-29",
+   "sailingTime": 1545,
+   "dayofWeek": 3,
+   "DoW": "Wed",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 45,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-29",
+   "sailingTime": 1650,
+   "dayofWeek": 3,
+   "DoW": "Wed",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 40,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-29",
+   "sailingTime": 1755,
+   "dayofWeek": 3,
+   "DoW": "Wed",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 20,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-29",
+   "sailingTime": 1850,
+   "dayofWeek": 3,
+   "DoW": "Wed",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 41,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-29",
+   "sailingTime": 2010,
+   "dayofWeek": 3,
+   "DoW": "Wed",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 10,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-29",
+   "sailingTime": 2045,
+   "dayofWeek": 3,
+   "DoW": "Wed",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 80,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-30",
+   "sailingTime": 620,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 61,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-30",
+   "sailingTime": 700,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-30",
+   "sailingTime": 825,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-30",
+   "sailingTime": 910,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-30",
+   "sailingTime": 1025,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-30",
+   "sailingTime": 1120,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-30",
+   "sailingTime": 1235,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-30",
+   "sailingTime": 1330,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 69,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-30",
+   "sailingTime": 1445,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 68,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-30",
+   "sailingTime": 1545,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 46,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-30",
+   "sailingTime": 1650,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 51,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-30",
+   "sailingTime": 1755,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 15,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-30",
+   "sailingTime": 1850,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 67,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-30",
+   "sailingTime": 2010,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 1,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-30",
+   "sailingTime": 2045,
+   "dayofWeek": 4,
+   "DoW": "Thu",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 74,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 620,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 63,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 700,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 99,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 825,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 83,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 910,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 1025,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 1120,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 1235,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 1330,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 1445,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 100,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 1545,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 87,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 1650,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 88,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 1755,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 49,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 1850,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 57,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 2010,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ },
+ {
+   "LoadAll": 1,
+   "Departing": "LNG",
+   "CaptureDate": "2017-03-31",
+   "sailingTime": 2045,
+   "dayofWeek": 5,
+   "DoW": "Fri",
+   "MonthName": "Mar",
+   "MonthNumber": 3
+ }
+]

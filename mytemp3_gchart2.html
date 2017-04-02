@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Pivot Demo</title>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+
+    <!-- external libs from cdnjs -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+
+    <!-- PivotTable.js libs from ../dist -->
+    <link rel="stylesheet" type="text/css" href="../dist/pivot.css">
+    <script type="text/javascript" src="../dist/pivot.js"></script>
+    <script type="text/javascript" src="../dist/gchart_renderers.js"></script>
+    <style>
+        body {
+            font-family: Verdana;
+        }
+    </style>
+
+    <!-- optional: mobile support with jqueryui-touch-punch -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.2.3/jquery.ui.touch-punch.min.js"></script>
+
+    <!-- for examples only! script to show code to user -->
+    <!-- <script type="text/javascript" src="show_code.js"></script> -->
+
+    <script type="text/javascript">
+        function findDay() {
+            var eID = document.getElementById("daysCombo");
+            var dayVal = eID.options[eID.selectedIndex].value;
+            var daytxt = eID.options[eID.selectedIndex].text;
+            alert("Data source is " + daytxt + ", Value " + dayVal);
+            //            alert("Data source is " + daytxt);
+        }
+    </script>
+</head>
+
+<body>
+
+    <select id="daysCombo"> 
+        <option value="Data Sources" selected disabled>Data Sources</option>
+        <option value="Feb1.json">Feb 1</option> 
+        <option value="Mar23.json">Mar 23</option> 
+        <option value="Apr1.json">Apr 1</option> 
+    </select>
+    <br><br>
+    <button onclick="findDay()">Select Data Source</button>
+
+    <script type="text/javascript">
+        // This example adds Google Chart renderers.
+
+        var filename = prompt("Enter Feb1.json, Mar23.json, Apr1.json", "Feb1.json");
+        if (filename != null) {
+            google.load("visualization", "1", {
+                packages: ["corechart", "charteditor"]
+            });
+            $(function() {
+                var derivers = $.pivotUtilities.derivers;
+                var renderers = $.extend($.pivotUtilities.renderers,
+                    $.pivotUtilities.gchart_renderers);
+
+                $.getJSON(filename, function(mps) {
+                    $("#output").pivotUI(mps, {
+                        "derivedAttributes": {},
+                        "hiddenAttributes": [],
+                        "menuLimit": 500,
+                        "cols": [
+                            " Departing",
+                            "sailingTime"
+                        ],
+                        "rows": [
+                            "dayofWeek",
+                            "DoW"
+                        ],
+                        "vals": [
+                            "LoadAll"
+                        ],
+                        "exclusions": {},
+                        "inclusions": {},
+                        "unusedAttrsVertical": 85,
+                        "autoSortUnusedAttrs": false,
+                        "sorters": {},
+                        "inclusionsInfo": {},
+                        "aggregatorName": "Average",
+                        "rendererName": "Table"
+                    });
+                });
+            });
+        }
+    </script>
+
+    <p><a href="start.html">&laquo; back to examples</a></p>
+
+    <div id="output" style="margin: 30px;"></div>
+
+</body>
+
+</html>

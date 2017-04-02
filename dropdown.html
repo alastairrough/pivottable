@@ -1,0 +1,27 @@
+<html>
+
+<head>
+    <script type="text/javascript">
+        function findDay() {
+            var eID = document.getElementById("daysCombo");
+            var dayVal = eID.options[eID.selectedIndex].value;
+            var daytxt = eID.options[eID.selectedIndex].text;
+            alert("Data source is " + daytxt + ", Value " + dayVal);
+            //            alert("Data source is " + daytxt);
+        }
+    </script>
+</head>
+
+<body>
+    <select id="daysCombo"> 
+ <option value="Data Sources" selected disabled>Data Sources</option>
+ <option value="file1.json">Feb 1</option> 
+<option value="file2.json">Mar 23</option> 
+<option value="file3.json">Apr 1</option> 
+</select>
+    <br><br>
+    <button onclick="findDay()">Select Data Source</button>
+</body>
+
+</html>
+<!--See more at: http://www.corelangs.com/js/progs/options.html#sthash.sszA69Ug.dpuf -->
