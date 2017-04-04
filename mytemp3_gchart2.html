@@ -51,7 +51,7 @@
     <script type="text/javascript">
         // This example adds Google Chart renderers.
 
-        var filename = prompt("Enter Feb1.json, Mar23.json, Apr1.json", "Feb1.json");
+        var filename = prompt("Enter Feb1.json, Mar23.json, totalLoadMaxApr1.json", "totalLoadMaxApr1.json");
         if (filename != null) {
             google.load("visualization", "1", {
                 packages: ["corechart", "charteditor"]
@@ -67,15 +67,15 @@
                         "hiddenAttributes": [],
                         "menuLimit": 500,
                         "cols": [
-                            " Departing",
+                            "Departing",
+                            "CaptureDate",
                             "sailingTime"
                         ],
                         "rows": [
-                            "dayofWeek",
-                            "DoW"
+                            "dayofWeek"
                         ],
                         "vals": [
-                            "LoadAll"
+                            "totalLoad"
                         ],
                         "exclusions": {},
                         "inclusions": {},
@@ -84,7 +84,7 @@
                         "sorters": {},
                         "inclusionsInfo": {},
                         "aggregatorName": "Average",
-                        "rendererName": "Table"
+                        "rendererName": "Bar Chart"
                     });
                 });
             });
